@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+h3{
+    font-size: 18px;
+}
+h4{
+    font-size: 16px;
+}
+h5{
+    font-size: 12px;
+}
+h6{
+    font-size: 10px;
+}
+p{
+    font-size: 16px;
+}
+
+.main-header{
+    background-color:#82CFFB;
+}
+
+.pdx-40{
+    padding-left: 40px;
+    padding-right: 30px;
+}
+.pdy-25{
+    padding-top: 25px;
+    padding-bottom: 25px;   
+}
+
+
+.d-flex{
+    display: flex;
+}
